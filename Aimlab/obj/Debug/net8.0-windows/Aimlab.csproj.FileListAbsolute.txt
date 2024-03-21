@@ -1,0 +1,34 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.Form1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.Resource1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\refint\Aimlab.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\Aimlab\Aimlab\obj\Debug\net8.0-windows\ref\Aimlab.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.exe
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.deps.json
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.runtimeconfig.json
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\bin\Debug\net8.0-windows\Aimlab.pdb
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.Form1.resources
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.Resource1.resources
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\refint\Aimlab.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.pdb
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\Aimlab.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\Aimlab\Aimlab\obj\Debug\net8.0-windows\ref\Aimlab.dll
